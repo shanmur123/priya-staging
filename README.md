@@ -1,11 +1,8 @@
-{"menu": {
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"value": "New", "onclick": "CreateNewDoc()"},
-      {"value": "Open", "onclick": "OpenDoc()"},
-      {"value": "Close", "onclick": "CloseDoc()"}
-    ]
-  }
-}}
+<html>
+ <head>
+ <title>Sample "Azure Web App" Application</title>
+ </head>
+ <body bgcolor=white>
+ <p>This is the <i>home page</i> for the new <b>Azure Web App</b> deployed through Azure Portal. </p>
+ </body>
+ </html>
